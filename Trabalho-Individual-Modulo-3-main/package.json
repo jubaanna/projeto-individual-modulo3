@@ -1,0 +1,23 @@
+{
+  "name": "trabalho-individual-modulo-3",
+  "version": "1.0.0",
+  "description": "Trabalho Individual da Resilia",
+  "main": "index.js",
+  "scripts": {
+    "teste": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jppebr/Trabalho-Individual-Modulo-3.git"
+  },
+  "author": "joão",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jppebr/Trabalho-Individual-Modulo-3/issues"
+  },
+  "homepage": "https://github.com/jppebr/Trabalho-Individual-Modulo-3#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuidv4": "^6.2.13"
+  }
+}
