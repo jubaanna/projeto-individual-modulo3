@@ -1,5 +1,5 @@
 {
-  "name": "trabalho-individual-modulo-3",
+  "name": "projeto-individual-modulo-3",
   "version": "1.0.0",
   "description": "Trabalho Individual da Resilia",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jppebr/Trabalho-Individual-Modulo-3.git"
+    "url": "git+https://github.com/jubaanna/projeto-ndividual-modulo3.git"
   },
-  "author": "joão",
+  "author": "Juliana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jppebr/Trabalho-Individual-Modulo-3/issues"
+    "url": "https://github.com/jubaanna/projeto-individual-modulo3/issues"
   },
-  "homepage": "https://github.com/jppebr/Trabalho-Individual-Modulo-3#readme",
+  "homepage": "https://github.com/jubaanna/projeto-individual-modulo3#readme",
   "dependencies": {
     "express": "^4.18.2",
     "uuidv4": "^6.2.13"
